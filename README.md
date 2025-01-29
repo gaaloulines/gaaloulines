@@ -17,15 +17,10 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 
 ### 📫 How to reach me:
-- Email: [your.email@example.com](mailto:ines.gaaloul18@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/inesgaaloul)
+- Email: (mailto:ines.gaaloul18@gmail.com)
+- LinkedIn: (www.linkedin.com/in/inesgaaloul)
 
 
-### ⚡ Fun fact:
-- I love combining **clean code** with **creative designs** to build projects that are both functional and visually appealing. 🎨✨
-- Outside of coding, I enjoy being active and spending time with family.
-
----
 
 ### 🛠️ Tools & Technologies:
 - **Languages**: JavaScript,Java, SQL,Python
