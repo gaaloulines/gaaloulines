@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - Building modern, interactive full stack applications with **Next Js**.
 
 ### 👯 I’m looking to collaborate on:
-- Open-source projects focused on **web development** and **real-time applications**.
+- Open-source projects focused on **web development** .
 - Any project where I can learn something new.
 
 
